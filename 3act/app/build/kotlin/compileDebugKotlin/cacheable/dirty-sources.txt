@@ -1,0 +1,9 @@
+E:\3act\app\src\main\java\com\hfad\a3act\BaseActivity.kt
+E:\3act\app\src\main\java\com\hfad\a3act\Second2Fragment.kt
+E:\3act\app\src\main\java\com\hfad\a3act\MainActivity.kt
+E:\3act\app\src\main\java\com\hfad\a3act\SecondActivity.kt
+E:\3act\app\src\main\java\com\hfad\a3act\FirstFragment.kt
+E:\3act\app\src\main\java\com\hfad\a3act\SecondFragment.kt
+E:\3act\app\src\main\java\com\hfad\a3act\MyAdapter.kt
+E:\3act\app\src\main\java\com\hfad\a3act\ThirdActivity.kt
+E:\3act\app\src\main\java\com\hfad\a3act\First2Fragment.kt
